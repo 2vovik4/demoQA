@@ -1,2 +1,5 @@
-package page;public interface Base {
+package page;
+
+public interface Base {
+    public void checkInitialise();
 }
